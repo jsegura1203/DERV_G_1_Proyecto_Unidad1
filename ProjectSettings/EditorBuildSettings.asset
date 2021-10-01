@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/1 Inicio.unity
+    guid: eded0b796abfd0c4ea3e7cf26daecaa4
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/2 CasaAndres.unity
+    guid: 73bbd9259f701da49bb865ca747181bd
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/3 CaminoTienda.unity
+    guid: e9051d15c85fb2440ac5e647d9d97461
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/3 Tienda.unity
+    guid: 5b1f9d76917e270468a0427e533ee306
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/4 CaminoUniversidad.unity
+    guid: 709d57d5b28e8034088b8d2d3812a988
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/5 ExtUniversidad.unity
+    guid: c3e24887cd03a814db2ec0163db0f367
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/6 LaberintoEscuela.unity
+    guid: 2a4c205f5524d444599226e7a7936976
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/7 LabInformatica.unity
+    guid: 37b8180d3e974b148aca2a1564423685
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/BodegaDentro.unity
+    guid: 5ee8f35758deb0742b0ef8d989bec339
+  - enabled: 1
+    path: Assets/Scenes/ProyectoFinal/Final.unity
+    guid: 4b64b2b74bb64ed4c9a8cba5e4229b3c
+  m_configObjects: {}
